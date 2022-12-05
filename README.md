@@ -1,4 +1,4 @@
-# Spad - DeFi Services 🪙 Work in progress 🛠️
+# Spad - DeFi Services 🏛 Work in progress 🛠️
 ![](https://img.shields.io/badge/Contract-ts-blue)
 ![](https://img.shields.io/badge/Stage-starting-brightgreen)
 
